@@ -23,12 +23,10 @@ Timeseries signals
 
 we provide the timeseries signals which are extracted on all the datasets of this database using the Glasser atlas [1].
 
-We provide the timeseries in a zip folder titled 'Time_serie_per_site'. Please run Script titled 'ABIDE_dataset_time_series.py'to know how ro download automatically.
+We provide the timeseries in a zip folder titled 'Time_serie_per_site'. Please run Script titled 'ABIDE_dataset_time_series.py'to know how to download it automatically.
 
-
- 
 Phenotypes 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------
 
 In this repository, we also uploaded the phenotypic information in csv files for ABIDE  as it is accessible for downloading.
 
