@@ -10,7 +10,8 @@ Nicolas Farrugia - IMT Atlantique - France
 nicolas.farrugia@imt-atlantique.fr 
 
 September 2019
-==============================
+---------------
+
 
 This repository hosts scripts necessary for running predictions on ABIDE database using Grapĥ Signal Processing.
 
