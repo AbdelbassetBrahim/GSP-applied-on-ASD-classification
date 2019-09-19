@@ -4,7 +4,7 @@ Graph Signal Processing applied on Autism Spectrum Disorder classification
 ### Contributors
 
 Abdelbasset Brahim- IMT Atlantique - France 
-abdelbasset.brahim@@imt-atlantique.fr
+abdelbasset.brahim@imt-atlantique.fr
 
 Nicolas Farrugia - IMT Atlantique - France 
 nicolas.farrugia@imt-atlantique.fr 
