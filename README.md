@@ -19,7 +19,7 @@ Data we provide
 ---------------
 
 Timeseries signals
-~~~~~~~~~~~~~~~~~~~
+---------------
 
 we provide the timeseries signals which are extracted on all the datasets of this database using the Glasser atlas [1].
 
@@ -57,6 +57,6 @@ Notebooks we provide:
 
 
 References
-^^^^^^^^^^
+---------------
 [1] M. F. Glasser, T. S. Coalson, E. C. Robinson, C. D. Hacker, J. Harwell, E. Yacoub, K. Ugurbil, J. Andersson, C. F. Beckmann, S. S. M. Jenkinson, M., D. C. Van Essen, A multi-modal parcellation of human cerebral cortex, Nature vol. 536,7615 (2016): 171-178. 536 (7615) (2016) 171–178.
 [2] Abraham, A., et al. 2014. Machine learning for neuroimaging with scikit-learn. Frontiers in neuroinformatics 8.
