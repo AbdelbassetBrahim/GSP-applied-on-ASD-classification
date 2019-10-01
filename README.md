@@ -13,7 +13,7 @@ September 2019
 ---------------
 
 
-This repository hosts scripts necessary for running predictions on ABIDE database using Grapĥ Signal Processing.
+This repository hosts scripts necessary for running predictions on ABIDE database using Grapĥ Signal Processing and for producing the different results in [1].
 
 
 Data we provide
@@ -22,7 +22,7 @@ Data we provide
 Timeseries signals
 ---------------
 
-we provide the timeseries signals which are extracted on all the datasets of this database using the Glasser atlas [1].
+we provide the timeseries signals which are extracted on all the datasets of this database using the Glasser atlas [2].
 
 We provide the timeseries in a zip folder titled 'Time_serie_per_site'. Please run Script titled 'ABIDE_dataset_time_series.py'to know how to download it automatically.
 
@@ -35,7 +35,7 @@ In this repository, we also uploaded the phenotypic information in csv files for
 
 What software we used
 ----------------------
-- The sotware used for timeseries extraction, a Python library Nilearn (http://nilearn.github.io/) [2]. 
+- The sotware used for timeseries extraction, a Python library Nilearn (http://nilearn.github.io/) [3]. 
 
 - Installing Nilearn and its dependencies are essential. To install Nilearn and its dependencies (http://nilearn.github.io/introduction.html#installing-nilearn) 
 
@@ -61,5 +61,6 @@ Notebooks we provide:
 
 References
 ---------------
-[1] M. F. Glasser, T. S. Coalson, E. C. Robinson, C. D. Hacker, J. Harwell, E. Yacoub, K. Ugurbil, J. Andersson, C. F. Beckmann, S. S. M. Jenkinson, M., D. C. Van Essen, A multi-modal parcellation of human cerebral cortex, Nature vol. 536,7615 (2016): 171-178. 536 (7615) (2016) 171–178.
-[2] Abraham, A., et al. 2014. Machine learning for neuroimaging with scikit-learn. Frontiers in neuroinformatics 8.
+[1] A. Brahim, N. Farrugia. Graph Fourier Transform of fMRI temporal signals based on an averaged structural connectome for the classification of neuroimaging. submitted in Artificial Intelligence in Medicine, Elsevier,  ⟨hal-02302538⟩.
+[2] M. F. Glasser, T. S. Coalson, E. C. Robinson, C. D. Hacker, J. Harwell, E. Yacoub, K. Ugurbil, J. Andersson, C. F. Beckmann, S. S. M. Jenkinson, M., D. C. Van Essen, A multi-modal parcellation of human cerebral cortex, Nature vol. 536,7615 (2016): 171-178. 536 (7615) (2016) 171–178.
+[3] Abraham, A., et al. 2014. Machine learning for neuroimaging with scikit-learn. Frontiers in neuroinformatics 8.
