@@ -275,8 +275,8 @@ def classification_metrics_vis_v1(nperm,data1,data2,data3,labels,step_min,step_m
     from sklearn.decomposition import PCA
     from sklearn.model_selection import StratifiedShuffleSplit
 
-    #loo=StratifiedShuffleSplit(n_splits=20, test_size=0.2, random_state=0)
-    loo=StratifiedShuffleSplit(n_splits=100, test_size=0.25, random_state=0)
+    loo=StratifiedShuffleSplit(n_splits=20, test_size=0.2, random_state=0)
+    
     
     svc = LinearSVC(random_state=0,max_iter=100000,C=0.01)
  
