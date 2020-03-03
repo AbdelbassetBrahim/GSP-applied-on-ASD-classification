@@ -48,12 +48,12 @@ What software we used
 Scripts we provide: 
 -------------------------------------------------------------------------------
 
--The scripts ``classification_intrasite_lr.py`` and ``classification_intrasite_svc.py`` can be used for launching predictions on 871 subjects classifying individuals between autism 403 and healthy subjects 468 using logistic regression (LR) and support vector machines (SVM), respectively.
+-The scripts ``classification_intrasite_lr.py``,  ``classification_intrasite_svc.py`` and  ``classification_intrasite_svc_rbf.py`` can be used for launching predictions on 871 subjects classifying individuals between autism 403 and healthy subjects 468 using logistic regression (LR) and support vector machines (SVM) with linear and RBF kernels, respectively.
 - **NOTE**: You can download Time_serie_per_site.zip folder from this link: https://osf.io/ew8bc/?view_only=6ca895e73ac54b499546f6a0c4aa06e9
 
 Notebooks we provide: 
 -------------------------------------------------------------------------------
-- The Jupyter notebooks ``Classification_vis_ABIDE_LR_UP.ipynb`` and ``Classification_vis_ABIDE_SVM_UP.ipynb`` can be used to generate the classification figures using two different classifiers.
+- The Jupyter notebooks ``Classification_vis_ABIDE_LR.ipynb``,``Classification_vis_ABIDE_SVM.ipynb`` and ``Classification_vis_ABIDE_SVM_RBF.ipynb`` can be used to generate the classification figures using two different classifiers.
 
 -The Jupyter notebook ``GFT_visualisations_ABIDE_SVM.ipynb`` can be used for the visualization of features using several approaches, such as , CC, STD, STD+SG, Var, Var+SG.
 
