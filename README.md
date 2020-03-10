@@ -61,6 +61,6 @@ Notebooks we provide:
 
 References
 ---------------
-[1] A. Brahim, N. Farrugia. Graph Fourier Transform of fMRI temporal signals based on an averaged structural connectome for the classification of neuroimaging. submitted in Artificial Intelligence in Medicine, Elsevier,  https://hal-imt.archives-ouvertes.fr/hal-02302538.
+[1] A. Brahim, N. Farrugia. Graph Fourier Transform of fMRI temporal signals based on an averaged structural connectome for the classification of neuroimaging. submitted in Artificial Intelligence in Medicine, Elsevier, https://hal-imt.archives-ouvertes.fr/hal-02302538.
 [2] M. F. Glasser, T. S. Coalson, E. C. Robinson, C. D. Hacker, J. Harwell, E. Yacoub, K. Ugurbil, J. Andersson, C. F. Beckmann, S. S. M. Jenkinson, M., D. C. Van Essen, A multi-modal parcellation of human cerebral cortex, Nature vol. 536,7615 (2016): 171-178. 536 (7615) (2016) 171–178.
 [3] Abraham, A., et al. 2014. Machine learning for neuroimaging with scikit-learn. Frontiers in neuroinformatics 8.
